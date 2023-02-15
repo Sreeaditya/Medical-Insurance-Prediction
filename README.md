@@ -1,2 +1,2 @@
 # Medical-Insurance-Prediction
-This is an application that predicts the medical insurance price based on the existing dataset. EDA is done on the dataset  to analyze and visualize the significant characteristics.
+THis is an application that predicts the medical insurance price based on the existing dataset. EDA is done on the dataset  to analyze and visualize the significant characteristics. It also trains the dataset using Linear Regression, SVM, Ridge Regression and Random Forest Regressor and compares their correlation values. The final prediction is done using Random Forest Regressor with 86% accuracy. It is built using  pandas and sklearn libraries in python.
